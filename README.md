@@ -1,13 +1,17 @@
 # GDIM32 In Class Activities
-## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
+## W1
+Activity 1
+Submit homework on thime and it's very important to check the itcho link after uploaded (check if the link is set on public) start to do the mini game before deadline come up.
 
+Activity 2
+1.10
+2.2
+3.show "hello world" every frame
+4.MonoBehaviour
+5.show "x = 10"
+6. method arugment and parameter
+7.translate called on object and tranform is a class
+8. use translate
 
-Hit enter TWICE to create a new line.
-
-
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
-
-
-Remove all placeholder text in order to get full credit for README file formatting.
+Activity 3
+https://docs.google.com/document/d/1k-sXYZ-8W-76zU_AhOm0KkVi5w6dVbUOzbarCw8tWbU/edit?usp=sharing
