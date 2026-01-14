@@ -18,3 +18,6 @@ Submit homework on thime and it's very important to check the itcho link after u
 
 ## W2
 ### Activity 1
+
+### Activity 2
+[W2 Activity 2] (https://github.com/UCI-GDIM32-W25/mg2-oop-review-ZiyingHuang3/commit/9d18b9e82b6f0a1890c714c193b6de24e6da0b36I)I added ground and player in the scence. Added player script allow player to jump by pressing space and make sure the player can't double jump.
