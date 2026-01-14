@@ -18,3 +18,4 @@ Submit homework on thime and it's very important to check the itcho link after u
 
 ## W2
 ### Activity 1
+<img width="913" height="690" alt="a graphic breakdown of MG2"![690e29b135ab6ddf247ec01755dbce06](https://github.com/user-attachments/assets/34430d45-cd34-49c7-9a7f-85f3f7c6efc6)>
