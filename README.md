@@ -15,3 +15,6 @@ Submit homework on thime and it's very important to check the itcho link after u
 
 ### Activity 3
 [W1 Activity 3](https://docs.google.com/document/d/1k-sXYZ-8W-76zU_AhOm0KkVi5w6dVbUOzbarCw8tWbU/edit?usp=sharing)
+
+## W2
+### Activity 1
