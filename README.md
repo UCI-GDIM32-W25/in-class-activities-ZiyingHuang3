@@ -21,4 +21,4 @@ Submit homework on thime and it's very important to check the itcho link after u
 <img width="913" height="690" alt="a graphic breakdown of MG2" src="https://github.com/user-attachments/assets/34430d45-cd34-49c7-9a7f-85f3f7c6efc6">
 
 ### Activity 2
-[W2 Activity 2](https://github.com/UCI-GDIM32-W25/mg2-oop-review-ZiyingHuang3/commit/9d18b9e82b6f0a1890c714c193b6de24e6da0b36I) I added ground and player in the scence. Added player script allow player to jump by pressing space and make sure the player can't double jump.
+[W2 Activity 2](https://github.com/UCI-GDIM32-W25/mg2-oop-review-ZiyingHuang3/commit/9d18b9e82b6f0a1890c714c193b6de24e6da0b36) I added ground and player in the scence. Added player script allow player to jump by pressing space and make sure the player can't double jump.
