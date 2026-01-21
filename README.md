@@ -28,4 +28,4 @@ Submit homework on thime and it's very important to check the itcho link after u
 Evelina Wang
 
 ### Activity 3
-<img width="913" height="690" alt="a graphic breakdown of MG3" src="https://github.com/user-attachments/assets/5df13eea-e924-4854-a815-c031e2c684f9)>
+<img width="913" height="690" alt="a graphic breakdown of MG3" src="https://github.com/user-attachments/assets/5df13eea-e924-4854-a815-c031e2c684f9">
