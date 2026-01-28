@@ -38,6 +38,9 @@ Evelina
 Only one Locator remains, all other destroy automatically.
 
 ### Activity 2
+<img width="913" height="690" alt="a graphic breakdown of MG4" src="https://github.com/user-attachments/assets/6178172e-8a0b-42f3-9380-b1c5f8228e38">
+
 
 ### Activity 3
 [W4 Activity 3](https://github.com/ZiyingHuang3/HW4/commit/d3d8c3911d5f76480c7a5757b438211e5e857a52) I creaated the scene and added bird and pipe sprites.
+
