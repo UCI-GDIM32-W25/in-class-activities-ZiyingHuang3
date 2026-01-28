@@ -38,3 +38,6 @@ Evelina
 Only one Locator remains, all other destroy automatically.
 
 ### Activity 2
+
+### Activity 3
+[W4 Activity 3](https://github.com/ZiyingHuang3/HW4/commit/d3d8c3911d5f76480c7a5757b438211e5e857a52) I creaated the scene and added bird and pipe sprites.

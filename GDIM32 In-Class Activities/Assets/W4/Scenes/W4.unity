@@ -526,6 +526,7 @@ GameObject:
   - component: {fileID: 698552928}
   - component: {fileID: 698552929}
   - component: {fileID: 698552930}
+  - component: {fileID: 698552931}
   m_Layer: 0
   m_Name: Pigeon
   m_TagString: Untagged
@@ -739,6 +740,23 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &698552931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 698552925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032ac2ca9a1de44489637b8ff3e010ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &772868488 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4881373418642381213, guid: b61a6e38c2d074662a94641e6bf63171, type: 3}
+  m_PrefabInstance: {fileID: 88038378225788335}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &891382051
 GameObject:
   m_ObjectHideFlags: 0
@@ -781,10 +799,22 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1215581038182270395, guid: b61a6e38c2d074662a94641e6bf63171, type: 3}
   m_PrefabInstance: {fileID: 88038378225788335}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 772868488}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 20258e91128ef4e6c98415ccecd74053, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &980944250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 772868488}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032ac2ca9a1de44489637b8ff3e010ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1104396767
@@ -1535,7 +1565,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4881373418642381213, guid: b61a6e38c2d074662a94641e6bf63171, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 980944250}
   m_SourcePrefab: {fileID: 100100000, guid: b61a6e38c2d074662a94641e6bf63171, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
