@@ -29,3 +29,12 @@ Evelina Wang
 
 ### Activity 3
 <img width="913" height="690" alt="a graphic breakdown of MG3" src="https://github.com/user-attachments/assets/5df13eea-e924-4854-a815-c031e2c684f9">
+
+## W4
+### Activity 0
+Evelina
+
+### Activity 1
+Only one Locator remains, all other destroy automatically.
+
+### Activity 2
