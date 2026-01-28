@@ -38,3 +38,5 @@ Evelina
 Only one Locator remains, all other destroy automatically.
 
 ### Activity 2
+<img width="913" height="690" alt="a graphic breakdown of MG4" src="https://github.com/user-attachments/assets/6178172e-8a0b-42f3-9380-b1c5f8228e38">
+
