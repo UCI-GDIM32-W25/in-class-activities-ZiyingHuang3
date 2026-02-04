@@ -63,4 +63,5 @@ Finite State Machine with C# enums shows action constenly moving from state to s
 Parent class from farmobject shared by all farm objects. Use interfaces to sepearte functionality.
 
 ### Activity 4
+Attendance: Ziying Huang, Evelina Wang, Nicole Yang
 [W5 Activity 4](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?usp=sharing)
