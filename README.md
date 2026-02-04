@@ -61,3 +61,6 @@ There are sprites (prefeb) ScriptableObjects to show where to click or show the 
 Finite State Machine with C# enums shows action constenly moving from state to state. MVC pattern can be used M: gun's ability (data) V: UI to show point.. C: player able to shoot
 #### Scenario 3
 Parent class from farmobject shared by all farm objects. Use interfaces to sepearte functionality.
+
+### Activity 4
+[W5 Activity 4](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?usp=sharing)
