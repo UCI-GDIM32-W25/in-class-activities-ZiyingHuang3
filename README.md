@@ -44,3 +44,20 @@ Only one Locator remains, all other destroy automatically.
 ### Activity 3
 [W4 Activity 3](https://github.com/ZiyingHuang3/HW4/commit/d3d8c3911d5f76480c7a5757b438211e5e857a52) I creaated the scene and added bird and pipe sprites.
 
+## W5
+### Acitivity 1
+I think interfaces and abstract classes are clear and effective. The abstract class defines shared Use() behavior. Each item can implements own version Use(). I would keep it in my project because it is easy to change and extend.
+
+### Activity 2
+Model: PlayerW5Demo2
+View: InventoryUI : MonoBehaviour
+Controller: Enemy Stats
+
+### Activity 3
+
+#### Scenario 1
+There are sprites (prefeb) ScriptableObjects to show where to click or show the beat system.
+#### Scenario 2
+Finite State Machine with C# enums shows action constenly moving from state to state. MVC pattern can be used M: gun's ability (data) V: UI to show point.. C: player able to shoot
+#### Scenario 3
+Parent class from farmobject shared by all farm objects. Use interfaces to sepearte functionality.
