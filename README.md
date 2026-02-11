@@ -65,3 +65,11 @@ Parent class from farmobject shared by all farm objects. Use interfaces to sepea
 ### Activity 4
 Attendance: Ziying Huang, Evelina Wang, Nicole Yang
 [W5 Activity 4](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?usp=sharing)
+
+## W6
+### Acitivity 1
+Gizmos is really helpful to check the player's facing direaction in the Scence, like if NPC changes state based on player distance. Profiling can be used to check CPU and GPU if the game feels laggy. Breakpoints is helpful debugging tool like when the score is not updating.
+
+### Acitivity 2
+Attendance: Ziying Huang, Evelina Wang, Nicole Yang [W6 Activity 2](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?tab=t.0)
+
