@@ -81,3 +81,6 @@ Check whether the player is detected through Raycast and based on that to switch
 Attendance: Ziying Huang, Evelina Wang, Nicole Yang
 
 ### Activity 3
+<img width="2360" height="1640" alt="unnamed" src="https://github.com/user-attachments/assets/3fb6d7e3-50fe-48e9-936a-3e34c3f34342" />
+
+### Acitvity 4
