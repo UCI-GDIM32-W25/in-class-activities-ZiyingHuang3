@@ -71,7 +71,8 @@ Attendance: Ziying Huang, Evelina Wang, Nicole Yang
 Gizmos is really helpful to check the player's facing direaction in the Scence, like if NPC changes state based on player distance. Profiling can be used to check CPU and GPU if the game feels laggy. Breakpoints is helpful debugging tool like when the score is not updating.
 
 ### Acitivity 2
-Attendance: Ziying Huang, Evelina Wang, Nicole Yang [W6 Activity 2](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?tab=t.0)
+Attendance: Ziying Huang, Evelina Wang, Nicole Yang [W6 Activity 2](h<img width="2360" height="1640" alt="unnamed" src="https://github.com/user-attachments/assets/3fb6d7e3-50fe-48e9-936a-3e34c3f34342" />
+ttps://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?tab=t.0)
 
 ## W7
 ### Activity 1
@@ -81,3 +82,4 @@ Check whether the player is detected through Raycast and based on that to switch
 Attendance: Ziying Huang, Evelina Wang, Nicole Yang
 
 ### Activity 3
+![Uploading unnamed.png…]()
