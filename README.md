@@ -84,3 +84,4 @@ Attendance: Ziying Huang, Evelina Wang, Nicole Yang
 <img width="2360" height="1640" alt="unnamed" src="https://github.com/user-attachments/assets/3fb6d7e3-50fe-48e9-936a-3e34c3f34342" />
 
 ### Acitvity 4
+[W7 Activity 4](https://docs.google.com/document/d/14oNVjOULok9GKOuAMz6FifVQNZexjDqA_J2JGHLxH9M/edit?tab=t.0)
