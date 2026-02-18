@@ -85,3 +85,6 @@ Attendance: Ziying Huang, Evelina Wang, Nicole Yang
 
 ### Acitvity 4
 [W7 Activity 4](https://docs.google.com/document/d/14oNVjOULok9GKOuAMz6FifVQNZexjDqA_J2JGHLxH9M/edit?tab=t.0)
+
+### Activity 5
+[W7 Activity 5](https://github.com/ZiyingHuang3/GDIM32-Final/commit/e8be940b50f0184b89248e28ec6631dddef4493c) I added art and enviroment the scene
