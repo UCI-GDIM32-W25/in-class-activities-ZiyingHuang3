@@ -73,3 +73,11 @@ Gizmos is really helpful to check the player's facing direaction in the Scence, 
 ### Acitivity 2
 Attendance: Ziying Huang, Evelina Wang, Nicole Yang [W6 Activity 2](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?tab=t.0)
 
+## W7
+### Activity 1
+Check whether the player is detected through Raycast and based on that to switch state and behavior.
+
+### Acitivity 2
+Attendance: Ziying Huang, Evelina Wang, Nicole Yang
+
+### Activity 3
