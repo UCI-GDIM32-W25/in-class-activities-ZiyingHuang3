@@ -88,3 +88,25 @@ Attendance: Ziying Huang, Evelina Wang, Nicole Yang
 
 ### Activity 5
 [W7 Activity 5](https://github.com/ZiyingHuang3/GDIM32-Final/commit/e8be940b50f0184b89248e28ec6631dddef4493c) I added art and enviroment the scene
+
+## W8
+### Activity 1
+Post-process effect can make the scene look more polish.Free effect can be found in Unity asset store.
+
+### Acitivity 2
+Attendance: Ziying Huang, Evelina Wang, Nicole Yang
+
+### Activity 3
+Buddy team: Great question
+The feedback that we got on our game is that the button to pick up items is not clear, movement might be a little fast, player can still move after they die, 
+animations still move after you die (they said they enjoyed seeing it and that it adds onto the fun), you can go through a specific wall in the map,
+we should have indication of losing health like audio or flashing red, we should have indication of picking up item like audio, you can go through the mushroom NPC, 
+if you're behind Freddy, you do not take damage but the animation still plays. You can lose health multiple times near Freddy even when you're somewhat away.
+You do not take damage in front of the blue guy but only when touching (the animation plays but does not take damage), Camera spins randomly sometimes, and 
+camera spins after the game ends.
+
+### Activity 4
+I will add audio, import door animation and add UI to make interaction more obvious.
+
+### Activity 5
+I changed the NPC's collider to make alert zone smaller. [W8 Activity 5](https://github.com/ZiyingHuang3/GDIM32-Final/commit/6aff4c52463fa69a209f4923cbe8e592dcfc891d#diff-f494ac502950b7beeaa5a379cb6488828adba99fcb2c8e162e020614f5776728)
