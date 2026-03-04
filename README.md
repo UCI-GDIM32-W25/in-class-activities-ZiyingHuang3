@@ -109,4 +109,23 @@ camera spins after the game ends.
 I will add audio, import door animation and add UI to make interaction more obvious.
 
 ### Activity 5
-I changed the NPC's collider to make alert zone smaller. [W8 Activity 5](https://github.com/ZiyingHuang3/GDIM32-Final/commit/6aff4c52463fa69a209f4923cbe8e592dcfc891d#diff-f494ac502950b7beeaa5a379cb6488828adba99fcb2c8e162e020614f5776728)
+I changed the NPC's collider to make alert zone smaller. [W8 Activity 5](https://github.com/ZiyingHuang3/GDIM32-Final/commit/6aff4c52463fa69a209f4923cbe8e592dcfc891d#diff-f494ac502950b7beeaa5a379cb6488828adba99fcb2c8e162e020614f5776728)\
+
+## W9
+### Activity 1
+ It is important to know how the system will work when the data become larger and more complex. System may function when the game only have some 
+ dialogue lines but as content grows, the issues of maintainability and data manage may happen. 
+
+ ### Acitivity 2
+Attendance: Ziying Huang, Evelina Wang, Nicole Yang
+
+### Activity 3
+Our goal is to check if the player can move smoothly and interact to the items corectly.
+From our playtesting, we found out that it is not clear what controls are used for moving, the dialogue with the NPC needs to be clicked twice initially to start the conversation, the dialogue never ends unless the player completes the full conversation, the rotation sensitivity is a little too high, and there is a spot where Freddy's animation plays but the player never takes damage.
+
+### Activity 4
+We finished most of the game mechanics and coding. We still have some small issues from player feedback and need to have small adjustment to the
+environment like the table is too high.
+
+### Activity 5
+[W9 Activity 5](https://github.com/ZiyingHuang3/GDIM32-Final/commit/e73e86c46233bcfedc02e798737c36ed624536e4) I fix the NPC damage area and the issue of item's rotation speed.
