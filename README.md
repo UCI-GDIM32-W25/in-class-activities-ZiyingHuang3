@@ -129,3 +129,18 @@ environment like the table is too high.
 
 ### Activity 5
 [W9 Activity 5](https://github.com/ZiyingHuang3/GDIM32-Final/commit/e73e86c46233bcfedc02e798737c36ed624536e4) I fix the NPC damage area and the issue of item's rotation speed.
+
+## W10
+### Activity 1
+Attendance: Ziying Huang, Evelina Wang, Nicole Yang
+
+ ### Activity 2
+ Our goal is to test the movement of player and interaction. From our playtesting, the playtesters notice the rotation of player is weird because the speed is slow.
+ They also found out the player can pick up multiple items at the same time and when time runs out the player can still move and interact. 
+
+ ### Activity 3
+ We are almost done and still need to fix some small bugs and improve the player experience(rotation speed).
+
+ ### Activity 4
+ [W10 Activity 4](https://github.com/ZiyingHuang3/GDIM32-Final/commit/0af38e42c94dbd4eb166d8cbc40b89cf865a7635) Here I adjusted UI size to fit the full screen.
+ [W10 Activity 4](https://github.com/ZiyingHuang3/GDIM32-Final/commit/6a364c99db56e8bb92d35551b156be4af47e78d6) Here I edited the collider of a NPC so it can trigger at the same time as when you take damage.
